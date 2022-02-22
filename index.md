@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Introduction to Git
 
-You can use the [editor on GitHub](https://github.com/WilsonJhub/Intro-to-Git/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Understanding "Version Control"
+Before understanding **Git**, we need to understand "**Version Control**". 
+I think of **Version Control** as thoughts of information that are controlled by the developer. Our brains are not capable of remembering every line of code, so we store that information inside of our computers. I like to think that our computers are an extension of ourselves. So our computers act as our "Version Control"  
+In our Version Control, we can edit our thoughts or, lines of code, to reflect our changes. 
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Centralized Version Control 
+Developers constantly collaborate with other devs to ensure the proper functionality of a program. They do this through a system called **Centralized Version Control**.  
+**Centralized Version Control** is a singular database that can be accessed by coders all over the world. This gives programmers access to the work of other developers
 
-### Markdown
+## Distibuted Version Control
+This allows developers 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WilsonJhub/Intro-to-Git/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
